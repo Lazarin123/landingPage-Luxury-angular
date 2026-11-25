@@ -2,7 +2,7 @@
 
 Landing page e-commerce fictícia de **relógios, pulseiras e roupas de luxo**, criada em Angular 19 para portfólio. O destaque é um relógio em SVG que marca a **hora real do visitante** na hero.
 
-🔗 **Demo:** `https://SEU-PROJETO.vercel.app` (troque pelo seu link)
+🔗 **Demo:** `landingpage-luxury-angular.vercel.app` (troque pelo seu link)
 
 ## Funcionalidades
 
@@ -78,7 +78,7 @@ vercel --prod
 
 ## Autor
 
-**Seu Nome** · [LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/SEU-USUARIO)
+**Samuel Lazarin** · [LinkedIn](https://linkedin.com/in/samuel-lazarin) · [GitHub](https://github.com/Lazarin123)
 
 ## Licença
 
